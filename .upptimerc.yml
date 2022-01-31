@@ -7,6 +7,8 @@ sites:
     url: https://cowswap.exchange
   - name: CoW Protocol website
     url: https://cow.fi/
+  - name: Cow Protocol - API [MAINNET] (solvable orders)
+    url: https://api.cow.fi/mainnet/api/v1/solvable_orders
 
 
 status-website:
