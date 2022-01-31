@@ -5,15 +5,23 @@ repo: cowmonitor # The name of this repository
 sites:
   - name: Cowswap.exchange
     url: https://cowswap.exchange
-  - name: CoW Protocol website
+    icon: https://cowswap.exchange/favicon.png
+  - name: cow.fi (CoW Protocol website)
     url: https://cow.fi/
+    icon: https://cow.fi/favicon.png
   - name: Cow Protocol - API [MAINNET] (solvable orders)
     url: https://api.cow.fi/mainnet/api/v1/solvable_orders
+    icon: https://cow.fi/favicon.png
 
+
+workflowSchedule:
+  uptime: "*/5 * * * *"
 
 status-website:
   baseUrl: /cowmonitor
   name: CoW Protocol Status Monitor
+  logoUrl: https://cow.fi/favicon.png
+  theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
