@@ -40,19 +40,19 @@
     "url": "https://api.cow.fi/mainnet/api/v1/solvable_orders",
     "icon": "https://cow.fi/favicon.png",
     "slug": "cow-protocol-api-mainnet-solvable-orders",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.13%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.13%",
     "time": 706,
     "timeDay": 706,
     "timeWeek": 706,
     "timeMonth": 706,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2022-02-01": 0
+      "2022-02-01": 12
     }
   }
 ]
