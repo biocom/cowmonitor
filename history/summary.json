@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 588,
-    "timeDay": 359,
-    "timeWeek": 567,
-    "timeMonth": 588,
-    "timeYear": 588,
+    "time": 576,
+    "timeDay": 444,
+    "timeWeek": 530,
+    "timeMonth": 576,
+    "timeYear": 576,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://cow.fi/favicon.png",
     "slug": "cow-fi-co-w-protocol-website",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 130,
-    "timeDay": 78,
-    "timeWeek": 130,
-    "timeMonth": 130,
-    "timeYear": 130,
-    "dailyMinutesDown": {
-      "2022-02-05": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 128,
+    "timeDay": 87,
+    "timeWeek": 128,
+    "timeMonth": 128,
+    "timeYear": 128,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cow Protocol - API [MAINNET] (solvable orders)",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 652,
-    "timeDay": 407,
-    "timeWeek": 652,
-    "timeMonth": 652,
-    "timeYear": 652,
+    "time": 645,
+    "timeDay": 576,
+    "timeWeek": 645,
+    "timeMonth": 645,
+    "timeYear": 645,
     "dailyMinutesDown": {}
   }
 ]
